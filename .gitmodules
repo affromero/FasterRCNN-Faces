@@ -5,4 +5,5 @@
 
 [submodule "py-faster-rcnn"]
 	path = py-faster-rcnn
-	https://github.com/rbgirshick/py-faster-rcnn.git
+	url = https://github.com/rbgirshick/py-faster-rcnn.git
+	branch= master
